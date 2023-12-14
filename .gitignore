@@ -22,3 +22,5 @@ jboss/server/minimal/work/**/*
 
 .env
 node_modules/
+.env
+.env
